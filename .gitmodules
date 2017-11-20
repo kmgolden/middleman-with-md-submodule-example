@@ -1,4 +1,4 @@
 
 [submodule "content-style-guide"]
 	path = content-style-guide
-	url = git@github.com:kmgolden/content-style-guide.git
+	url = https://github.com/kmgolden/content-style-guide.git
